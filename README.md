@@ -4,48 +4,73 @@
 ---
 
 ## Focus
-Data science with emphasis on data visualization, predictive modeling, and production-grade automation.  
-Backend development in Java and enterprise scripting with PowerShell.
+Data science centered on visualization, predictive modeling, and production-grade automation.  
+Backend development in Java with scalable system design and enterprise scripting in PowerShell.
+
+---
 
 ## Technical Skills
 
 **Languages:**  
-Python · Java · SQL · PowerShell  
+Python · Java · SQL · PowerShell · C++
+
+**Java Ecosystem:**  
+Spring Boot · Hibernate/JPA · Maven · REST APIs · Object-Oriented Design  
 
 **Data Science & Visualization:**  
-Pandas · NumPy · scikit-learn · Matplotlib · Seaborn  
+Pandas · NumPy · scikit-learn · Matplotlib · Seaborn · Jupyter  
 
 **Databases:**  
-MySQL · SQL (relational database design, queries, optimization)
+MySQL · Relational Database Design · Query Optimization · Indexing  
 
 **Cloud & Systems:**  
-Microsoft Azure · Linux · AWS  
+Microsoft Azure · AWS · Linux  
 
 **Tools:**  
-Git · VS Code  
+Git · VS Code · Azure DevOps  
 
 ---
 
-## Experience
+## Professional Experience
 
-**Technology Analyst – Hu-Friedy**  
+### Technology Analyst — Hu-Friedy (Nov 2025 – Present)
 - Developed and maintained Python & PowerShell automation workflows  
-- Diagnosed and optimized production data systems  
-- Improved reliability of recurring reporting pipelines  
+- Diagnosed and resolved failures in production data pipelines  
+- Improved reliability of scheduled enterprise reporting  
 
-**Technology Analyst Intern – Hyatt Hotels**  
-- Built ETL pipelines and reporting automation (reduced manual effort by 34%)  
-- Strengthened enterprise data workflows across Linux environments  
+### Technology Analyst Intern — Hyatt Hotels (Jun 2024 – Aug 2024)
+- Built automated ETL pipelines using Python (Pandas, NumPy)  
+- Reduced manual reporting effort by 34%  
+- Strengthened enterprise data reliability across Linux systems  
+
+### Data & STEM Intern — Northwestern Academy (May 2022 – Aug 2023)
+- Built Python/Jupyter workflows for cleaning, modeling, and visualizing data  
+- Automated recurring reporting processes  
+
+### CSSI Student — Google (Jun 2021 – Aug 2021)
+- Completed intensive software engineering training  
 
 ---
 
-## Selected Project
+## Live Projects
 
-**ChicagoSafety AI Dashboard**  
-- Designed geospatial data visualizations and trend modeling tools  
-- Integrated backend data pipelines with interactive dashboards  
+### ChicagoSafety AI Dashboard  
+🔗 https://cs.gettysburg.edu/~estrke01/cs360/dashboard/  
+Real-time public safety dashboard with geospatial visualizations, trend analysis, and backend data integration.
+
+### Kaleedo — AI Digital Humanities Platform  
+🔗 https://kaleedo.net/  
+Full-stack AI platform with authentication, role-based access control, and structured backend systems.
+
+### Monte Carlo Localization — Cozmo AI Robot  
+🔗 https://cs.gettysburg.edu/~boyech01/cs371/  
+Implemented probabilistic localization (Kidnapped Robot Problem) and visualized model performance.
 
 ---
 
-📫 estrke01@gettysburg.edu  
-🔗 Portfolio | GitHub | LinkedIn
+## Connect
+
+Portfolio: https://cs.gettysburg.edu/~estrke01/portfolio/  
+LinkedIn: https://www.linkedin.com/in/kmestrada10/  
+GitHub: https://github.com/Kmestrada10  
+Email: estrke01@gettysburg.edu
