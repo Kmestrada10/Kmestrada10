@@ -33,12 +33,12 @@ Git · VS Code · Azure DevOps
 
 ## Professional Experience
 
-### Technology Analyst — Hu-Friedy (Nov 2025 – Present)
+### Software Engineer — Hu-Friedy (Nov 2025 – Present)
 - Developed and maintained Python & PowerShell automation workflows  
 - Diagnosed and resolved failures in production data pipelines  
-- Improved reliability of scheduled enterprise reporting  
+- Maintain webpage, and create React Componenets 
 
-### Technology Analyst Intern — Hyatt Hotels (Jun 2024 – Aug 2024)
+### Software Engineer Intern — Hyatt Hotels (Jun 2024 – Aug 2024)
 - Built automated ETL pipelines using Python (Pandas, NumPy)  
 - Reduced manual reporting effort by 34%  
 - Strengthened enterprise data reliability across Linux systems  
